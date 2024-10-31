@@ -12,7 +12,7 @@ Welcome to the **Codeforces 900 Rated Problem Solutions** repository! This repos
 
 ## About
 
-Codeforces offers a vast range of competitive programming problems that help enhance problem-solving abilities. Here, I’ve compiled solutions to problems with a rating of 800 on Codeforces, covering a range of topics like basic algorithms, loops, conditions, arrays, and more. These solutions are meant to serve as a guide and learning resource for beginners or anyone looking to brush up on essential concepts.
+Codeforces offers a vast range of competitive programming problems that help enhance problem-solving abilities. Here, I’ve compiled solutions to problems with a rating of 900 on Codeforces, covering a range of topics like basic algorithms, loops, conditions, arrays, and more. These solutions are meant to serve as a guide and learning resource for beginners or anyone looking to brush up on essential concepts.
 
 ## Languages Used
 
@@ -34,7 +34,7 @@ The repository is organized as follows:
 To run any solution:
 1. Download or clone this repository:
     ```bash
-    git clone https://github.com/printAri/codeforces-800-solutions.git
+    git clone https://github.com/printAri/codeforces-900-solutions.git
     ```
 2. Open the file of the problem you want to review in an IDE or text editor.
 3. Run the code in your preferred coding environment or use an online compiler to test the solution.
